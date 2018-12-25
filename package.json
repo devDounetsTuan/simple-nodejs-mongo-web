@@ -1,0 +1,18 @@
+{
+  "name": "simple_restful_webapp",
+  "version": "1.0.0",
+  "description": "simple web nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
